@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InClass08</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="apiKey"> "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1ODM5NzAyOTUsImV4cCI6MTYxNTUwNjI5NSwianRpIjoiNHpqcnhQRlFzOUs0WERnbVV6SHJHSiIsInVzZXIiOjE3Nn0.rtxR-8miVN0r_nfhD7oMql7aAgliBNfAhzgkPXpw9lQ"</string>
+    <string name="Cancel">Cancel</string>
+    <string name="First">First Name</string>
+    <string name="last">Last name</string>
+    <string name="Choose">Choose Password</string>
+    <string name="Confirm">Confirm Password</string>
+    <string name="LOGIN">"http://ec2-18-234-222-229.compute-1.amazonaws.com/api/login"</string>
+    <string name="SIGNUP">"http://ec2-18-234-222-229.compute-1.amazonaws.com/api/signup"</string>
+    <string name="USERS">"http://ec2-18-234-222-229.compute-1.amazonaws.com/api/users"</string>
+    <string name="INBOX">"http://ec2-18-234-222-229.compute-1.amazonaws.com/api/inbox"</string>
+    <string name="ADD">"http://ec2-18-234-222-229.compute-1.amazonaws.com/api/inbox/add"</string>
+    <string name="DELETE">"http://ec2-18-234-222-229.compute-1.amazonaws.com/api/inbox/delete/2"</string>
+    <string name="End">End</string>
+</resources>
